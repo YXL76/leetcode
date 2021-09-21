@@ -4,6 +4,8 @@
  * [151] Reverse Words in a String
  */
 
+pub struct Solution;
+
 // @lc code=start
 impl Solution {
     pub fn reverse_words(s: String) -> String {

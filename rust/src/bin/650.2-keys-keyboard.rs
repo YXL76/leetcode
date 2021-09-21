@@ -4,6 +4,8 @@
  * [650] 2 Keys Keyboard
  */
 
+pub struct Solution;
+
 // @lc code=start
 impl Solution {
     pub fn min_steps(n: i32) -> i32 {

@@ -4,6 +4,8 @@
  * [121] Best Time to Buy and Sell Stock
  */
 
+pub struct Solution;
+
 // @lc code=start
 impl Solution {
     pub fn max_profit(prices: Vec<i32>) -> i32 {

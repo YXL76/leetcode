@@ -4,6 +4,8 @@
  * [273] Integer to English Words
  */
 
+pub struct Solution;
+
 // @lc code=start
 impl Solution {
     pub fn number_to_words(mut num: i32) -> String {

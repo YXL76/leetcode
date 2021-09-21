@@ -4,6 +4,8 @@
  * [191] Number of 1 Bits
  */
 
+pub struct Solution;
+
 // @lc code=start
 impl Solution {
     pub fn hammingWeight(mut n: u32) -> i32 {

@@ -4,6 +4,8 @@
  * [189] Rotate Array
  */
 
+pub struct Solution;
+
 // @lc code=start
 impl Solution {
     pub fn rotate(nums: &mut Vec<i32>, k: i32) {

@@ -4,6 +4,8 @@
  * [200] Number of Islands
  */
 
+pub struct Solution;
+
 // @lc code=start
 impl Solution {
     const DIRECTIONS: [(i32, i32); 4] = [(0, -1), (0, 1), (-1, 0), (1, 0)];

@@ -4,6 +4,8 @@
  * [26] Remove Duplicates from Sorted Array
  */
 
+// @ts-check
+
 // @lc code=start
 /**
  * @param {number[]} nums

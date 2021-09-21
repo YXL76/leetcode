@@ -4,6 +4,8 @@
  * [443] String Compression
  */
 
+pub struct Solution;
+
 // @lc code=start
 impl Solution {
     pub fn compress(chars: &mut Vec<char>) -> i32 {

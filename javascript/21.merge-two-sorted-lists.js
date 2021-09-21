@@ -4,6 +4,16 @@
  * [21] Merge Two Sorted Lists
  */
 
+// @ts-check
+/**
+ * @param {number=} val
+ * @param {ListNode=} next
+ */
+function ListNode(val, next) {
+  this.val = val === undefined ? 0 : val;
+  this.next = next === undefined ? null : next;
+}
+
 // @lc code=start
 /**
  * Definition for singly-linked list.
@@ -41,7 +51,7 @@ var mergeTwoLists = function (l1, l2) {
         return list;
       }
     }
-    tmp = j;
+    const tmp = j;
     j = j.next;
     if (ii.val < tmp.val) {
       insert(ii, tmp);

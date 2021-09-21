@@ -4,6 +4,15 @@
  * [237] Delete Node in a Linked List
  */
 
+// @ts-check
+/**
+ * @param {number} val
+ */
+function ListNode(val) {
+  this.val = val;
+  this.next = null;
+}
+
 // @lc code=start
 /**
  * Definition for singly-linked list.

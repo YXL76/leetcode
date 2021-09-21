@@ -4,6 +4,8 @@
  * [48] Rotate Image
  */
 
+pub struct Solution;
+
 // @lc code=start
 impl Solution {
     pub fn rotate(matrix: &mut Vec<Vec<i32>>) {

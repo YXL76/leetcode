@@ -4,6 +4,8 @@
  * [26] Remove Duplicates from Sorted Array
  */
 
+pub struct Solution;
+
 // @lc code=start
 impl Solution {
     pub fn remove_duplicates(nums: &mut Vec<i32>) -> i32 {

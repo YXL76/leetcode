@@ -4,6 +4,8 @@
  * [71] Simplify Path
  */
 
+pub struct Solution;
+
 // @lc code=start
 impl Solution {
     pub fn simplify_path(path: String) -> String {

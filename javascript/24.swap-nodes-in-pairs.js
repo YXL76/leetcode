@@ -4,6 +4,16 @@
  * [24] Swap Nodes in Pairs
  */
 
+// @ts-check
+/**
+ * @param {number=} val
+ * @param {ListNode=} next
+ */
+function ListNode(val, next) {
+  this.val = val === undefined ? 0 : val;
+  this.next = next === undefined ? null : next;
+}
+
 // @lc code=start
 /**
  * Definition for singly-linked list.

@@ -4,6 +4,8 @@
  * [13] Roman to Integer
  */
 
+pub struct Solution;
+
 // @lc code=start
 impl Solution {
     pub fn roman_to_int(s: String) -> i32 {

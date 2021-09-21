@@ -4,6 +4,8 @@
  * [20] Valid Parentheses
  */
 
+pub struct Solution;
+
 // @lc code=start
 impl Solution {
     pub fn is_valid(s: String) -> bool {
