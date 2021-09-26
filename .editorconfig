@@ -13,3 +13,6 @@ insert_final_newline = false
 
 [*.js]
 indent_size = 2
+
+[*.cpp]
+indent_size = 2
