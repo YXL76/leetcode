@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.m": "matlab",
+        "*.mdx": "markdown",
+        "*.s": "platformio-debug.asm",
+        "*.wxs": "javascript",
+        "*.wxss": "css",
+        "set": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "random": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "iterator": "cpp",
+        "string_view": "cpp",
+        "algorithm": "cpp",
+        "memory": "cpp",
+        "initializer_list": "cpp",
+        "numeric": "cpp",
+        "valarray": "cpp"
+    }
+}
